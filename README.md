@@ -11,7 +11,7 @@ The algorithm is near-term because it only relies on the [Hadamard test](https:/
 License
 -------
 
-Origami is provided under a BSD-ish license with a "modifications must be indicated" clause.  See LICENSE.md file for the full text.
+quantum_woodbury is provided under a BSD-ish license with a "modifications must be indicated" clause.  See LICENSE.md file for the full text.
 
 This package is part of the Hybrid Quantum-Classical Computing suite, known internally as LA-CC-16-032.
 
